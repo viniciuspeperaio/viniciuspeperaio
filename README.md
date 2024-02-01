@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viniciuspeperaio
 - 👀 I’m interest in web development and music
-- 🌱 I’m currently learning about JavaScript and PHP
-- 😄 Pronouns: he/her
+- 🌱 I’m currently learning about JavaScript and Python
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a musician, a very curious person and a development lover
 
 <!---
